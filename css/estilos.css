@@ -39,7 +39,7 @@ a {text-decoration: none;}
 /* --------------------------------------- */
 .country img {
   width: 24px; /* Puedes ajustar el valor según lo necesites */
-  height: auto; /* Mantiene la proporción original */
+  height: 24px; /* Mantiene la proporción original */
 }
 .slider_banner	{
 	overflow: hidden;
